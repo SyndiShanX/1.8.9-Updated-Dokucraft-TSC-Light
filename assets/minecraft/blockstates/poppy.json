@@ -1,0 +1,17 @@
+{ "variants": {
+    "normal": [
+      { "model": "plants/poppy/0" },
+      { "model": "plants/poppy/1" },
+      { "model": "plants/poppy/2" },
+      { "model": "plants/poppy/3" },
+      { "model": "plants/poppy/4" },
+      { "model": "plants/poppy/5" },
+      { "model": "plants/poppy/6" },
+      { "model": "plants/poppy/7" },
+      { "model": "plants/poppy/8" },
+      { "model": "plants/poppy/9" },
+      { "model": "plants/poppy/10" },
+      { "model": "plants/poppy/11" }
+    ]
+  }
+}

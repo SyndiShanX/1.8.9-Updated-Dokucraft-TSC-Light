@@ -1,0 +1,18 @@
+{
+    "variants": {
+        "normal": [
+        { "model": "plants/white_tulip/0" },
+        { "model": "plants/white_tulip/1" },
+        { "model": "plants/white_tulip/2" },
+        { "model": "plants/white_tulip/3" },
+        { "model": "plants/white_tulip/4" },
+        { "model": "plants/white_tulip/5" },
+        { "model": "plants/white_tulip/6" },
+        { "model": "plants/white_tulip/7" },
+        { "model": "plants/white_tulip/8" },
+        { "model": "plants/white_tulip/9" },
+        { "model": "plants/white_tulip/10" },
+        { "model": "plants/white_tulip/11" }
+    ]
+    }
+}

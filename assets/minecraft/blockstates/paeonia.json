@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "half=lower": { "model": "plants/peony/peony_bottom" },
+        "half=upper": [
+        	{ "model": "plants/peony/0" },
+        	{ "model": "plants/peony/1" },
+        	{ "model": "plants/peony/2" }
+        ]
+    }
+}

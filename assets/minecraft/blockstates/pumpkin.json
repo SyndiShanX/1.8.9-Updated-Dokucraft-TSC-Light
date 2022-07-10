@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": [{ "model": "pumpkins/carved_pumpkin" },{"model": "pumpkins/carved_pumpkin2"}],
+        "facing=south": [{ "model": "pumpkins/carved_pumpkin", "y": 180 },{"model": "pumpkins/carved_pumpkin2", "y": 180 }],
+        "facing=west":  [{ "model": "pumpkins/carved_pumpkin", "y": 270 },{"model": "pumpkins/carved_pumpkin2", "y": 270 }],
+        "facing=east":  [{ "model": "pumpkins/carved_pumpkin", "y": 90 },{"model": "pumpkins/carved_pumpkin2", "y": 90 }]
+    }
+}

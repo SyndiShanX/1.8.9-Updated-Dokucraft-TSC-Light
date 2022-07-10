@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "type=bottom,waterlogged=false": { "model": "birch_slab" },
+        "type=top,waterlogged=false"   : { "model": "birch_slab_top" },
+        "type=double,waterlogged=false": { "model": "double_slab/birch_slab_double" },
+
+		"type=bottom,waterlogged=true": { "model": "underwater/birch_slab_underwater" },
+        "type=top,waterlogged=true"   : { "model": "underwater/birch_slab_top_underwater" }
+    }
+}

@@ -1,0 +1,9 @@
+{ "variants": {
+    "normal": [
+      { "model": "ore/lapis/0" },
+      { "model": "ore/lapis/1" },
+      { "model": "ore/lapis/2" },
+      { "model": "ore/lapis/3" }
+    ]
+  }
+}

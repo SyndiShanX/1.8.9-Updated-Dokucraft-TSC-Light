@@ -1,0 +1,30 @@
+{ "variants": {
+    "normal": [
+      { "model": "mushroom/brown/0" },
+      { "model": "mushroom/brown/1" },
+      { "model": "mushroom/brown/2" },
+      { "model": "mushroom/brown/3" },
+      { "model": "mushroom/brown/4" },
+      { "model": "mushroom/brown/5" },
+      { "model": "mushroom/brown/6" },
+      { "model": "mushroom/brown/7" },
+      { "model": "mushroom/brown/8" },
+      { "model": "mushroom/brown/9" },
+      { "model": "mushroom/brown/10" },
+      { "model": "mushroom/brown/11" },
+      { "model": "mushroom/brown/12" },
+      { "model": "mushroom/brown/13" },
+      { "model": "mushroom/brown/14" },
+      { "model": "mushroom/brown/15" },
+      { "model": "mushroom/brown/16" },
+      { "model": "mushroom/brown/17" },
+      { "model": "mushroom/brown/18" },
+      { "model": "mushroom/brown/19" },
+      { "model": "mushroom/brown/20" },
+      { "model": "mushroom/brown/21" },
+      { "model": "mushroom/brown/22" },
+      { "model": "mushroom/brown/23" }
+
+    ]
+  }
+}

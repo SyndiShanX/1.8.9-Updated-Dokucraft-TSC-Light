@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "half=lower": { "model": "plants/sunflower/sunflower_bottom" },
+        "half=upper": [
+        	{ "model": "plants/sunflower/0" },
+        	{ "model": "plants/sunflower/1" },
+        	{ "model": "plants/sunflower/2" }
+        ]
+    }
+}

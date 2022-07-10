@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "normal": [
+        	{ "model": "plants/azure_bluet/0" },
+        	{ "model": "plants/azure_bluet/1" },
+        	{ "model": "plants/azure_bluet/2" }
+        ]
+    }
+}

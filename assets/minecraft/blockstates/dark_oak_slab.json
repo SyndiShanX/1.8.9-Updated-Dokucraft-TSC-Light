@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "type=bottom,waterlogged=false": { "model": "dark_oak_slab" },
+        "type=top,waterlogged=false"   : { "model": "dark_oak_slab_top" },
+        "type=double,waterlogged=false": { "model": "double_slab/dark_oak_slab_double" },
+
+		"type=bottom,waterlogged=true": { "model": "underwater/dark_oak_slab_underwater" },
+        "type=top,waterlogged=true"   : { "model": "underwater/dark_oak_slab_top_underwater" }
+    }
+}

@@ -1,0 +1,20 @@
+{ "variants": {
+    "normal": [
+      { "model": "plants/dead_bush/0" },
+      { "model": "plants/dead_bush/1" },
+      { "model": "plants/dead_bush/2" },
+      { "model": "plants/dead_bush/3" },
+      { "model": "plants/dead_bush/4" },
+      { "model": "plants/dead_bush/5" },
+      { "model": "plants/dead_bush/6" },
+      { "model": "plants/dead_bush/7" },
+      { "model": "plants/dead_bush/8" },
+      { "model": "plants/dead_bush/9" },
+      { "model": "plants/dead_bush/10" },
+      { "model": "plants/dead_bush/11" },
+      { "model": "plants/dead_bush/12" },
+      { "model": "plants/dead_bush/13" },
+      { "model": "plants/dead_bush/14" }
+    ]
+  }
+}

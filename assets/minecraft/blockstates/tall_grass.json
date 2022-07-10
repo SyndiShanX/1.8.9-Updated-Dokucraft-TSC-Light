@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"normal": [
+			{ "model": "grass/1" },
+			{ "model": "grass/2" },
+			{ "model": "grass/3" },
+			{ "model": "grass/7" },
+			{ "model": "grass/8" },
+			{ "model": "grass/9" },
+			{ "model": "grass/10" }
+    ]
+	}
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": [
+      { "model": "redstone_ore_off" }
+    ],
+	"lit=true": [
+      { "model": "redstone_ore" }
+    ]
+  }
+}

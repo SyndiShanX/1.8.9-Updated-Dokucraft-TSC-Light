@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "normal": [
+        { "model": "plants/blue_orchid/0" },
+        { "model": "plants/blue_orchid/1" },
+        { "model": "plants/blue_orchid/2" }
+    ]
+    }
+}

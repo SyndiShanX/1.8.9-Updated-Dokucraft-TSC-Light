@@ -1,0 +1,57 @@
+{
+	"textures": {
+		"texture": "blocks/buttons/oak_button",
+		"particle": "blocks/buttons/oak_button"
+	},
+	"elements": [{
+			"from": [5, 6, 6],
+			"to": [11, 8, 10],
+			"faces": {
+				"north": {
+					"uv": [5, 14, 11, 16],
+					"texture": "#texture"
+				},
+				"east": {
+					"uv": [6, 14, 10, 16],
+					"texture": "#texture"
+				},
+				"south": {
+					"uv": [5, 14, 11, 16],
+					"texture": "#texture"
+				},
+				"west": {
+					"uv": [6, 14, 10, 16],
+					"texture": "#texture"
+				},
+				"up": {
+					"uv": [5, 10, 11, 6],
+					"texture": "#texture"
+				},
+				"down": {
+					"uv": [5, 6, 11, 10],
+					"texture": "#texture"
+				}
+			}
+		}
+	],
+	"display": {
+		"thirdperson": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -3],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"firstperson": {
+			"rotation": [0, -45, -2],
+			"translation": [2, 2.5, 0],
+			"scale": [1, 1, 1]
+		},
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"gui": {
+			"rotation": [0, -90, 0],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	}
+}

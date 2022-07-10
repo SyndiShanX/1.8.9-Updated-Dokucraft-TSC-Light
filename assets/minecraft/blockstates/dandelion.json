@@ -1,0 +1,17 @@
+{ "variants": {
+    "normal": [
+      { "model": "plants/dandelion/0" },
+      { "model": "plants/dandelion/1" },
+      { "model": "plants/dandelion/2" },
+      { "model": "plants/dandelion/3" },
+      { "model": "plants/dandelion/4" },
+      { "model": "plants/dandelion/5" },
+      { "model": "plants/dandelion/6" },
+      { "model": "plants/dandelion/7" },
+      { "model": "plants/dandelion/8" },
+      { "model": "plants/dandelion/9" },
+      { "model": "plants/dandelion/10" },
+      { "model": "plants/dandelion/11" }
+    ]
+  }
+}

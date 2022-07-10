@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "normal": [
+        	{ "model": "sugar_cane/0" },
+        	{ "model": "sugar_cane/1" },
+        	{ "model": "sugar_cane/2" }
+        ]
+    }
+}

@@ -1,0 +1,12 @@
+{ "variants": {
+    "normal": [
+      { "model": "netherrack/netherrack", "weight": 825 },
+      { "model": "netherrack/netherrack_alt", "weight": 825 },
+      { "model": "netherrack/netherrack_eyes", "weight": 800 },
+      { "model": "netherrack/netherrack_big_eye", "weight": 25 },
+      { "model": "netherrack/netherrack_big_eye_2", "weight": 25 },
+      { "model": "netherrack/netherrack_theeth", "weight": 5 },
+      { "model": "netherrack/netherrack_theeth_2", "weight": 5 }
+    ]
+  }
+}
