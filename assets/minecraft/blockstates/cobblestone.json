@@ -1,6 +1,6 @@
 {
 	"variants": {
-		"":  [
+		"normal":  [
 			{ "model": "cobblestone/0", "weight":30 },
 			{ "model": "cobblestone/1", "weight":20 },
 			{ "model": "cobblestone/2", "weight":20 },
