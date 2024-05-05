@@ -1,7 +1,10 @@
 {
-	"variants": {
-		"type=bottom": { "model": "stone_slab" },
-		"type=top": { "model": "stone_slab_top" },
-		"type=double": { "model": "double_slab/stone_slab_double" }
-	}
+  "variants": {
+    "half=bottom": {
+      "model": "slabs/smooth_stone/smooth_stone_slab"
+    },
+    "half=top": {
+      "model": "slabs/smooth_stone/smooth_stone_slab_top"
+    }
+  }
 }
