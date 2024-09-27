@@ -1,0 +1,17 @@
+{
+	"variants": {
+		"snowy=false": [
+			{ "model": "grass_normal" },
+			{ "model": "grass_block/1" },
+			{ "model": "grass_block/2" },
+			{ "model": "grass_block/3" },
+			{ "model": "grass_block/4" },
+			{ "model": "grass_block/5" },
+			{ "model": "grass_block/6" },
+			{ "model": "grass_block/7" },
+			{ "model": "grass_block/8" },
+			{ "model": "grass_block/9" }
+		],
+		"snowy=true":  { "model": "grass_snowed" }
+	}
+}
